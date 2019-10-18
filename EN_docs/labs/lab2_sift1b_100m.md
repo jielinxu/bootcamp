@@ -10,15 +10,15 @@ The 100 million vectors used in this test are extracted from the dataset [SIFT1B
 | ------------------ | -------------------------- |
 | OS            | Ubuntu LTS 18.04 |
 | CPU           | Intel Core i7-7700K        |
-| GPU           | Nvidia GeForce GTX 1050, 4GB GDDR5 |
+| GPU           | NVIDIA GeForce GTX 1050, 4GB GDDR5 |
 | GPU Driver    | CUDA 10.1, Driver 418.74 |
-| Memory        | 16 GB DDR4 ( 2400 Mhz ) x 2                |
+| Memory        | 16 GB DDR4 ( 2400 MHz ) x 2                |
 | Storage       | SATA 3.0 SSD 256 GB                  |
 
 Download the following data and scripts, and save them to a file named **milvlus_sift100m**. 
 - [100 million vector dataset](https://pan.baidu.com/s/1N5jGKHYTGchye3qR31aNnA)
 
-  Download the dataset and extract the data to **milvus_sift100M/bvecs_data/**. When the extraction is completed, there will be 1000 .npy files, each containing 100,000 vectors, in file **bvecs_data**.
+Download the dataset and extract the data to **milvus_sift100M/bvecs_data/**. When the extraction is completed, there will be 1000 .npy files, each containing 100,000 vectors, in file **bvecs_data**.
 
 - [Query vector dataset](https://pan.baidu.com/s/1l9_lDItU2dPBPIYZ7oV0NQ)
 
